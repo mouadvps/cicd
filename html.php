@@ -1,3 +1,3 @@
 <?php
-eko 'hello'
+echo ('hello');
 ?>
